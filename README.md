@@ -8,3 +8,6 @@ Solved a problem on HackerRank of **Intro to Conditional Statements** through Py
 ## 3 Jan 2019
 Solved a problem on HackerRank of **Class vs. Instance** through Python.
 ***[Class_demo_link](https://youtu.be/wfcWRAxRVBA "Class_demo_link")***
+
+## 4 Jan 2019
+Solved a problem on HackerRank of **Loops** through Python.
