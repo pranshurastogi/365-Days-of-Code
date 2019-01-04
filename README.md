@@ -4,3 +4,7 @@ It can be of any programming language any concept, thing that matter is to solve
 
 ## 2 Jan 2019
 Solved a problem on HackerRank of **Intro to Conditional Statements** through Python.
+
+## 3 Jan 2019
+Solved a problem on HackerRank of **Class vs. Instance** through Python.
+***[Class_demo_link](https://youtu.be/wfcWRAxRVBA "Class_demo_link")***
