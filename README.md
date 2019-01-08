@@ -1,4 +1,4 @@
-# 365-Days-of-Code
+# Jan-2019
 Taking an initiative to solve at least a programming problem a day, no matter how big or short it would be.
 It can be of any programming language any concept, thing that matter is to solve a problem a day.
 
